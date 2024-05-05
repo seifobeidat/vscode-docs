@@ -199,4 +199,4 @@ Read on to find out more about:
 * [Java editing](/docs/java/java-editing.md) - Explore the editing features for Java in VS Code.
 * [Java debugging](/docs/java/java-debugging.md) - Find out how to debug your Java project with VS Code.
 * [Java testing](/docs/java/java-testing.md) - Use VS Code for your JUnit and TestNG cases.
-* [Java extensions](/docs/java/extensions.md) - Learn about more useful Java extensions for VS Code.
+* [Java extensions](/docs/java/extensions.md) - Learn about more useful Java extensions for 
